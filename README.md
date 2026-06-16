@@ -1,7 +1,7 @@
 
 # Aplikasi Kalkulator Sederhana
 
-**Deskripsi **
+**Deskripsi**
 
 Ini aplikasi kalkulator ringan buat latihan. Cocok buat mahasiswa yang lagi belajar logika pemrograman — nge-handle operasi dasar: tambah, kurang, kali, bagi.
 
