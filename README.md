@@ -24,8 +24,3 @@ Jalankan:
 ```bash
 python Aplikasi_Kalkulator_Sederhana.py
 ```
-Jalankan:
-
-```bash
-python Aplikasi_Kalkulator_Sederhana.py
-```
